@@ -1,4 +1,4 @@
-Greetings from Saudi Arabia!
+Greetings from Kingdom of Saudi Arabia!
 
 I am:
 - A MS/PhD Student at King Abdullah University of Science and Technology.
