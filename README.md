@@ -8,4 +8,4 @@ I am:
   - Cheap cloud services.
 - A big fan of Splatoon Series (Nintendo).
 
-Find more ideas and stories on [my blog](https://nekodaemon.com/) if you are interested.
+Find more ideas and stories in [my blog](https://nekodaemon.com/) if you are interested.
