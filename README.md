@@ -6,6 +6,6 @@ I am:
 - An enthusiast of
   - Advanced / Weird / Rare / Portable computing devices.
   - Cheap cloud services.
-- A big fan of Splatoon Series (Nintendo).
+- A big fan of Nintendo Splatoon Series.
 
 Find more ideas and stories in [my blog](https://nekodaemon.com/) if you are interested.
